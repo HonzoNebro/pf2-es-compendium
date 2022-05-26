@@ -1,0 +1,62 @@
+{
+	"label": "Paizo Blog Bestiary",
+	"entries": {
+		"Ailuran": {
+			"name": "Ailuran"
+		},
+		"Chea": {
+			"name": "Chea"
+		},
+		"Duhgik": {
+			"name": "Duhgik"
+		},
+		"Edolpho Phinelli": {
+			"name": "Edolpho Phinelli"
+		},
+		"Eleukas": {
+			"name": "Eleukas"
+		},
+		"Firebrand Ancient Brass Dragon": {
+			"name": "Firebrand Ancient Brass Dragon"
+		},
+		"Goblin Zombie": {
+			"name": "Goblin Zombie"
+		},
+		"Gristleburst": {
+			"name": "Gristleburst"
+		},
+		"Hellknight Centaur": {
+			"name": "Hellknight Centaur"
+		},
+		"Kobold Tunnelrunner": {
+			"name": "Kobold Tunnelrunner"
+		},
+		"Lisavet": {
+			"name": "Lisavet"
+		},
+		"Mari Lwyd": {
+			"name": "Mari Lwyd"
+		},
+		"Morlibint": {
+			"name": "Morlibint"
+		},
+		"Ogre Hurler": {
+			"name": "Ogre Hurler"
+		},
+		"Pr'rall": {
+			"name": "Pr'rall"
+		},
+		"Urok": {
+			"name": "Urok"
+		},
+		"Wendlyn": {
+			"name": "Wendlyn"
+		},
+		"Whispering Way Medusa": {
+			"name": "Whispering Way Medusa"
+		},
+		"Zhang Yong": {
+			"name": "Zhang Yong"
+		}
+	}
+}

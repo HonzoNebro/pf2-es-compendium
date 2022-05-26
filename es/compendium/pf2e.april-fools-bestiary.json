@@ -1,0 +1,32 @@
+{
+	"label": "April Fool's Bestiary",
+	"entries": {
+		"Blarghest": {
+			"name": "Blarghest"
+		},
+		"Cacaodaemon": {
+			"name": "Cacaodaemon"
+		},
+		"Demom": {
+			"name": "Demom"
+		},
+		"Floolf": {
+			"name": "Floolf"
+		},
+		"Nonsequitaur": {
+			"name": "Nonsequitaur"
+		},
+		"Nosferotter": {
+			"name": "Nosferotter"
+		},
+		"Psstpsstmitl": {
+			"name": "Psstpsstmitl"
+		},
+		"Squirrelwind": {
+			"name": "Squirrelwind"
+		},
+		"Weredigo": {
+			"name": "Weredigo"
+		}
+	}
+}

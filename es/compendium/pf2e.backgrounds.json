@@ -1,5 +1,5 @@
 {
-	"label": "Backgrounds",
+	"label": "Feats",
 	"entries": {
 		"Abadar's Avenger": {
 			"name": "Abadar's Avenger",
@@ -10,7 +10,7 @@
 			"description": "<p>You were enrolled at a prestigious magical academy, but you've since dropped out. Maybe there was a momentous incident, maybe you had to return to other responsibilities, or perhaps it was just too much for you. Whatever the case, your exit from the academy has shaped your life as much as your entrance and led you to a life of adventure.</p>\n<p>Choose two ability boosts. One must be to <strong>Intelligence</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You're trained in Arcana and Academia Lore. You gain the @Compendium[pf2e.feats-srd.1Bt7uCW2WI4sM84P]{Dubious Knowledge} skill feat.</p>"
 		},
 		"Acolyte": {
-			"name": "Acolyte",
+			"name": "Acólito",
 			"description": "<p>You spent your early days in a religious monastery or cloister. You may have traveled out into the world to spread the message of your religion or because you cast away the teachings of your faith, but deep down you'll always carry within you the lessons you learned.</p>\n<p>Choose two ability boosts. One must be to <strong>Intelligence</strong> or <strong>Wisdom</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Religion skill and the Scribing Lore skill. You gain the @Compendium[pf2e.feats-srd.x7EMZNMavris2aHY]{Student of the Canon} skill feat.</p>"
 		},
 		"Acrobat": {
@@ -98,7 +98,7 @@
 			"description": "<p>You're the medic many turn to when a more official clinic or healer might not be available. You may specialize in stitching up bullet wounds or have a standing, confidential deal with a criminal syndicate to provide your services any time of day or night. In either case, you've perhaps turned to the adventuring life because a former client is unhappy with your work or members of the local constabulary have been asking too many questions.</p>\n<p>Choose two ability boosts. One must be to <strong>Constitution</strong> or <strong>Wisdom</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Medicine skill and the Underworld Lore skill. You gain the @Compendium[pf2e.feats-srd.bkZgWFSFV4cAf5Ot]{Risky Surgery} skill feat.</p>"
 		},
 		"Bandit": {
-			"name": "Bandit",
+			"name": "Bandido",
 			"description": "<p>Your past includes no small amount of rural banditry, robbing travelers on the road and scraping by. Whether your robbery was sanctioned by a local noble or you did so of your own accord, you eventually got caught up in the adventuring life. Now, adventure is your stock and trade, and years of camping and skirmishing have only helped.</p>\n<p>Choose two ability boosts. One must be to <strong>Dexterity</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Intimidation skill and a Lore skill related to the terrain you worked in (such as Desert Lore or Plains Lore). You gain the @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Group Coercion} skill feat.</p>"
 		},
 		"Banished Brighite": {
@@ -142,7 +142,7 @@
 			"description": "<p><strong>Prerequisite</strong> Region - Golden Road</p>\n<hr />\n<p>You know how to work the less-than-legal side of the region's markets and know how to slip contraband past the authorities.</p>\n<p>Choose two ability boosts. One must be to <strong>Wisdom</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Stealth skill and the Underworld Lore skill. You gain the @Compendium[pf2e.feats-srd.t3btih0O5RUwWynt]{Experienced Smuggler} skill feat.</p>"
 		},
 		"Blessed": {
-			"name": "Blessed",
+			"name": "Bendito",
 			"description": "<p>You have been blessed by a divinity. For an unknown reason, and irrespective of your actual beliefs, a deity has granted you a boon to use for good or ill. Your blessing grants wisdom and insight to aid you in your struggles. You may or may not even know the identity of the being who blessed you, and the blessing might come with a cost you discover later on.</p>\n<p>Choose two ability boosts. One must be to <strong>Wisdom</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You are trained in a Lore skill associated with the deity who blessed you (such as Shelyn Lore) if you know their identity, or else in a Lore skill of the GM's choice if you don't. Either you can cast <em>@Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]{Guidance}</em> as a divine innate spell at will, or you gain a similar blessing determined by the GM.</p>"
 		},
 		"Blow-In (Deception)": {
@@ -238,7 +238,7 @@
 			"description": "<p>As an unscrupulous independent or as a member of an underworld organization, you lived a life of crime. You might have become an adventurer to seek redemption, to escape the law, or simply to get access to bigger and better loot.</p>\n<p>Choose two ability boosts. One must be to <strong>Dexterity</strong> or <strong>Intelligence</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Stealth skill and the Underworld Lore skill. You gain the @Compendium[pf2e.feats-srd.t3btih0O5RUwWynt]{Experienced Smuggler} skill feat.</p>"
 		},
 		"Cultist": {
-			"name": "Cultist",
+			"name": "Sectario",
 			"description": "<p>You were (or still are) a member of a cult whose rites may involve sacred dances to ensure a strong harvest or dire rituals that call upon dark powers. You might have taken up adventuring to further your cult's aims, to initiate yourself into the world's grander mysteries, or to flee unsavory practices or strictures.</p>\n<p>Choose two ability boosts. One must be to <strong>Intelligence</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Occultism skill and the Lore skill related to your deity or cult. You gain the @Compendium[pf2e.feats-srd.lEgYzFHransLkSvI]{Schooled In Secrets} skill feat.</p>"
 		},
 		"Curandero": {
@@ -246,7 +246,7 @@
 			"description": "<p>You learned the healing arts of your community wielding your ceremonial chonta, a tool you carved yourself and imbued with sacred oils and herbs. This process opened your eyes to ailments of a more mystical nature: malefic spirits, haunts, possession, and more. You likely took up adventuring to combat these horrors, or you may have fled an evil beyond your power to vanquish.</p>\n<p>Choose two ability boosts. One must be to <strong>Constitution</strong> or <strong>Wisdom</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Medicine skill and the Herbalism Lore skill. You gain the @Compendium[pf2e.feats-srd.sMCpihnBEpx18GBD]{Inoculation} skill feat.</p>"
 		},
 		"Cursed": {
-			"name": "Cursed",
+			"name": "Maldito",
 			"description": "<p>You are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects and, by extension, you can protect yourself against other harmful magic. However, the curse still hangs over you and sometimes manifests in dangerous ways.</p>\n<p>Choose two ability boosts. One must be to <strong>Intelligence</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You are trained in Occultism and Curse Lore. You gain the @Compendium[pf2e.actionspf2e.7pdG8l9POMK76Lf2]{Warding Sign} reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects.</p>"
 		},
 		"Cursed Family": {
@@ -422,7 +422,7 @@
 			"description": "<p>You've sought out a powerful genie and requested their blessing, hoping to increase your fortune. Your wish was vague, but fortune and the genie favored you with a more powerful effect than an ordinary wish, granting you bits of wish-twisted luck throughout the rest of your life. Meanwhile, other genies of the same kind recognize you as one blessed by one of their most powerful nobles, and might treat you with greater respect or envy.</p>\n<p>Choose two ability boosts. One must be to <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Diplomacy skill and the Genie Lore skill. You gain the Wish for Luck free action.</p>\n<hr />\n<p><em>Note: You must add the Wish for Luck free action</em></p>"
 		},
 		"Gladiator": {
-			"name": "Gladiator",
+			"name": "Gladiador",
 			"description": "<p>The bloody games of the arena taught you the art of combat. Before you attained true fame, you departed-or escaped-the arena to explore the world. Your skill at drawing both blood and a crowd's attention pay off in a new adventuring life.</p>\n<p>Choose two ability boosts. One must be to <strong>Strength</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Performance skill and the Gladiatorial Lore skill. You gain the @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Impressive Performance} skill feat.</p>"
 		},
 		"Goblinblood Orphan": {
@@ -450,7 +450,7 @@
 			"description": "<p>You've served on the Muckruckers, the unofficial guards of the flooded Puddles district. The pay's no good, the conditions are squalid, and you've seen things during your time on the force that've made you question your career entirely. Perhaps you joined the group out of a sense of duty to your fellow Absalomians, or maybe you felt an obligation to help restore your apocalyptic home district to some semblance of normalcy. Either way, the traumas you've endured, the double-crossers who've betrayed you, the wretched monsters that have crawled out of the muck to assail you-it's enough to turn an officer to weary cynicism or self-destruction through merciful drink.</p>\n<p>Thankfully, you found an out: an invitation to transfer to the newly formed Edgewatch. You accepted the offer in the hope that some fresh experience in a new district, surrounded by new people, might reignite the hope and passion you felt for the job so long ago.</p>\n<p>Choose two ability boosts. One must be to <strong>Constitution</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Survival skill, as well as either Labor Lore or Underworld Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} with Muckruckers, mercenaries, and adventurers. You gain the @Compendium[pf2e.feats-srd.urQZwmzg2kS53vd5]{Experienced Tracker} skill feat.</p>"
 		},
 		"Guard": {
-			"name": "Guard",
+			"name": "Guardia",
 			"description": "<p>You served in the guard, out of either patriotism or the need for coin. Either way, you know how to get a difficult suspect to talk. However you left the guard, you might think of adventuring as a way to use your skills on a wider stage.</p>\n<p>Choose two ability boosts. One must be to <strong>Strength</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Intimidation skill, and the Legal Lore skill or Warfare Lore skill. You gain the @Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]{Quick Coercion} skill feat.</p>"
 		},
 		"Gunsmith": {
@@ -950,7 +950,7 @@
 			"description": "<p>You were born into a lineage of undead slayers. No mere occupation, in your family slaying is a mantle of almost mystic responsibility passed from parent to child. Over the generations, this single-minded focus has begun to manifest in uncanny ways during combat.</p>\n<p>Choose two ability boosts. One must be to <strong>Strength</strong> or <strong>Intelligence</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Athletics skill and the Undead Lore skill. You can cast <em>@Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Disrupt Undead}</em> as an innate divine cantrip. You can use Intelligence as your spellcasting ability for this innate spell.</p>"
 		},
 		"Scout": {
-			"name": "Scout",
+			"name": "Batidor",
 			"description": "<p>You called the wilderness home as you found trails and guided travelers. Your wanderlust could have called you to the adventuring life, or perhaps you served as a scout for soldiers and found you liked battle.</p>\n<p>Choose two ability boosts. One must be to <strong>Dexterity</strong> or <strong>Wisdom</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Survival skill and a Lore skill related to one terrain you scouted in (such as Forest Lore or Cavern Lore). You gain the @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Forager} skill feat.</p>"
 		},
 		"Second Chance Champion": {
@@ -1166,7 +1166,7 @@
 			"description": "<p>You come from a different time. Whether by your own doing or a terrible accident, powerful magic has resulted in you coming to this time from the future or from the past, but you are unable to return. You might be from New Thassilon, an entire nation of time travelers.</p>\n<p>Choose two ability boosts. One must be to <strong>Dexterity</strong> or <strong>Intelligence</strong>, and one is a free ability boost.</p>\n<p>You are trained in three Lore skills of your choice that represent your knowledge from your old time. You gain the Bend Time reaction.</p>"
 		},
 		"Tinker": {
-			"name": "Tinker",
+			"name": "Manitas",
 			"description": "<p>Creating all sorts of minor inventions scratches your itch for problem-solving. Your engineering skills take a particularly creative bent, and no one know what you'll come up with next. It might be a genius device with tremendous potential... or it might explode.</p>\n<p>Choose two ability boosts. One must be to <strong>Dexterity</strong> or <strong>Intelligence</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Crafting skill and the Engineering Lore skill. You gain the @Compendium[pf2e.feats-srd.QLeMH5mQgh28sa5o]{Specialty Crafting} skill feat.</p>"
 		},
 		"Tomb Born": {

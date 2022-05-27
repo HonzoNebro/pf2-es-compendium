@@ -150,7 +150,7 @@
 			"description": "<p>This character connected you to a kindly but reclusive person who was living at the edge of civilization but had expansive knowledge to share.</p>\n<p>Add the @Compendium[pf2e.feats-srd.WC4xLBGmBsdOdHWu]{Natural Medicine} skill feat to your background options.</p>"
 		},
 		"Knight": {
-			"name": "Knight",
+			"name": "Caballero",
 			"description": "<p>A @Compendium[pf2e.npc-gallery.B13dyXTo1xWVyj2R]{Palace Guard} arrives and swears unfailing loyalty to you.</p>"
 		},
 		"Liberators": {
@@ -222,7 +222,7 @@
 			"description": "<p>Your family's possessions were stolen, and you vowed to catch the next burglar in the act. Add the @Compendium[pf2e.feats-srd.DMetdzt1VJL2Y62i]{Snare Crafting} skill feat to your background options.</p>"
 		},
 		"Rogue": {
-			"name": "Rogue",
+			"name": "Pícaro",
 			"description": "<p>One NPC ally becomes filled with hatred and immediately turns against you forever. The NPC might keep this hatred secret until an opportune moment.</p>"
 		},
 		"Ruin": {
@@ -250,7 +250,7 @@
 			"description": "<p>You have always wanted to prove yourself better than this character in a fancy social situation but have yet to decisively do so.</p>\n<p>Add the @Compendium[pf2e.feats-srd.JtjnFsOToBLnSRO9]{Courtly Graces} skill feat to your background options.</p>"
 		},
 		"Spy": {
-			"name": "Spy",
+			"name": "Espía",
 			"description": "<p>You spied upon this character in the past, either at the behest of someone else or because of your own suspicions.</p>\n<p>Add the @Compendium[pf2e.feats-srd.yUuU9xyotrpwpTyC]{Read Lips} skill feat to your background options.</p>"
 		},
 		"Star": {

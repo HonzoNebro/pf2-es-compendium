@@ -6,7 +6,7 @@
 			"description": "<p>Play during your turn.</p>\n<hr />\n<p>Until the start of your next turn, you gain a +2 status bonus to checks based on the ability scores that are boosted by your ancestry (ignoring free boosts). If your ancestry only grants free boosts, select one ability score to gain the bonus to instead.</p>"
 		},
 		"Aura of Protection": {
-			"name": "Aura of Protection",
+			"name": "Aura de Protección",
 			"description": "<p>Play this after Casting a Spell from your spell slots.</p>\n<hr />\n<p>You surround yourself with an aura of residual magic power. Until the start of your next turn, you gain resistance to all damage equal to the level of the spell that you just cast.</p>"
 		},
 		"Battle Cry": {
@@ -82,7 +82,7 @@
 			"description": "<p>Play during your turn.</p>\n<hr />\n<p>Select yourself or an ally within reach. The target regains [[/r {1d8+8}[healing]]]{1d8+8 Hit Points}. If you are 7th level or higher, the target regains [[/r {2d8+16}[healing]]]{2d8+16 Hit Points}. If you are 12th level or higher, the target regains [[/r {3d8+24}[healing]]]{3d8+24 Hit Points}.</p>"
 		},
 		"Hold the Line": {
-			"name": "Hold the Line",
+			"name": "Mantener La Formación",
 			"description": "<p>Play during your turn.</p>\n<hr />\n<p>Until the start of your next turn, each time an enemy would leave a space adjacent to you while using a move action, it must succeed at an Acrobatics or Athletics check against your Fortitude DC or the move action is disrupted.</p>"
 		},
 		"I Hope This Works": {
@@ -142,7 +142,7 @@
 			"description": "<p>Play when an ally is knocked @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious} or when you take damage from a critical hit.</p>\n<hr />\n<p>At the start of your next turn, you enter a rage (+2 damage to melee strikes, -1 AC penalty, no concentrate actions unless they have the rage trait, or use the stats for your rage class feature if you have one). At the end of that turn, if you don't have the rage class feature, the rage ends and you are @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued}.</p>"
 		},
 		"Rampage": {
-			"name": "Rampage",
+			"name": "Rabia",
 			"description": "<p>Play at the start of your turn.</p>\n<hr />\n<p>Make a Strike against each foe within reach. The multiple attack penalty applies as normal. At the end of these attacks, your turn ends and you are @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued}.</p>"
 		},
 		"Reckless Charge": {

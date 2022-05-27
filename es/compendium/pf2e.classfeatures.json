@@ -6,7 +6,7 @@
 			"description": "<p>At 5th level and every 5 levels thereafter, boost four different ability scores. You can use these boosts to increase ability scores above 18. Boosting an ability score increases it by 1 if it's already 18 or above, or by 2 if it starts out below 18.</p>\n<p>Your eidolon also gets four ability boosts at these levels. The eidolon's ability boosts follow the same rules as yours.</p>"
 		},
 		"Abjuration": {
-			"name": "Abjuration",
+			"name": "Abjuración",
 			"description": "<p>As an abjurer, you master the art of protection, strengthening defenses, preventing attacks, and even turning magic against itself. You understand that an ounce of prevention is worth a pound of cure. You add one 1st-level abjuration spell (such as <em>@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{Feather Fall}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.lY9fOk1qBDDhBT8s]{Protective Ward}</em> school spell.</p>"
 		},
 		"Adamantine Strikes": {
@@ -54,7 +54,7 @@
 			"description": "<p>You understand the complex interactions of natural and unnatural substances and can concoct alchemical items to meet your needs. You can do this using normal reagents and the Craft activity, or you can use special infused reagents that allow you to craft temporary items quickly and at no cost. Over time, you can create more and more alchemical items for free, and since each of them becomes more and more powerful, you advance in power dramatically, leaving behind those who don't understand your strange science.</p>\n<p>You gain the @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Alchemical Crafting} feat, even if you don't meet that feat's prerequisites, and you gain the four common 1st-level alchemical formulas granted by that feat. You can use this feat to create alchemical items as long as you have the items' formulas in your formula book.</p>"
 		},
 		"Alertness": {
-			"name": "Alertness",
+			"name": "Alerta",
 			"description": "<p>Experience has made you increasingly aware of threats around you, and you react more quickly to danger. Your proficiency rank for Perception increases to expert.</p>"
 		},
 		"Anathema (Cleric)": {
@@ -334,7 +334,7 @@
 			"description": "<p>You learn a conflux spell from your hybrid study, and you can cast additional conflux spells by selecting certain feats. Conflux spells are magus-specific spells created for combat and are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to both study your spellbook and perform a physical regimen.</p>\n<p>Focus spells are automatically heightened to half your level rounded up. Focus spells don't require spell slots, nor can you cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 points. The full rules can be found on page 300 of the Core Rulebook.</p>"
 		},
 		"Conjuration": {
-			"name": "Conjuration",
+			"name": "Conjuración",
 			"description": "<p>As a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key to victory is strength in numbers. You add one 1st-level conjuration spell (such as <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Summon Animal}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.tWzxuJdbXqvskdIo]{Augment Summoning}</em> school spell.</p>"
 		},
 		"Continuous Flair": {
@@ -406,7 +406,7 @@
 			"description": "<p>Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.</p>\n<p>Focus spells are automatically heightened to half your level rounded up. Certain feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. You gain a devotion spell depending on your cause, and you are trained in divine spell attack rolls and spell DCs. Your spellcasting ability is Charisma.</p>"
 		},
 		"Divination": {
-			"name": "Divination",
+			"name": "Adivinación",
 			"description": "<p>As a diviner, you master remote viewing and prescience, learning information that can transform investigations, research, and battle strategies. You understand that knowledge is power. You add one 1st-level divination spell (such as <em>@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{True Strike}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.oFwmdb6LlRrh9AUT]{Diviner's Sight}</em> school spell.</p>"
 		},
 		"Divine Ally": {
@@ -422,7 +422,7 @@
 			"description": "<p>Through your deity's blessing, you gain additional spells that channel either the life force called positive energy or its counterforce, negative energy. When you prepare your spells each day, you can prepare additional <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> or <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Harm}</em> spells, depending on your deity. Once you choose, you can't change your choice short of an ethical shift or divine intervention.</p>\n<p><strong>Healing Font</strong> You gain additional spell slots each day at your highest level of cleric spell slots. You can prepare only <em>heal</em> spells in these slots, and the number of slots is equal to 1 plus your Charisma modifier.</p>\n<p><strong>Harmful Font</strong> You gain additional spell slots each day at your highest level of cleric spell slots. You can prepare only <em>harm</em> spells in these slots, and the number of slots is equal to 1 plus your Charisma modifier.</p>"
 		},
 		"Divine Smite": {
-			"name": "Divine Smite",
+			"name": "Castigo Divino",
 			"description": "<p>Your @Compendium[pf2e.classfeatures.sXVX4ARUuo8Egrz5]{Champion's Reaction} improves. See your cause for details.</p>"
 		},
 		"Divine Spellcasting (Cleric)": {
@@ -514,7 +514,7 @@
 			"description": "<p>Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.</p>\n<p>You are trained in one Intelligence-based skill of your choice. You gain the @Compendium[pf2e.feats-srd.pIHjH1x0AVtiX5Tv]{That's Odd} investigator feat, and you gain the @Compendium[pf2e.actionspf2e.jftNJjBNxp2cleoi]{Expeditious Inspection} free action.</p>"
 		},
 		"Enchantment": {
-			"name": "Enchantment",
+			"name": "Encantamiento",
 			"description": "<p>As an enchanter, you use magic to manipulate others' minds. You might use your abilities to subtly influence others or seize control over them. You understand that the mind surpasses matter. You add one 1st-level enchantment spell (such as <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charm}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.KMFRKzNCq7hVNH7H]{Charming Words}</em> school spell.</p>"
 		},
 		"Enigma": {
@@ -526,11 +526,11 @@
 			"description": "<p>As a swashbuckler at the peak of your skill, you swell with confidence and bravado in every attack. Your proficiency rank for your swashbuckler class DC increases to master.</p>\n<p>When you Strike as part of a finisher or @Compendium[pf2e.actionspf2e.EfjoIuDmtUn4yiow]{Opportune Riposte}, you can give the Strike the failure effect from the @Compendium[pf2e.classfeatures.pyo0vmxUFIFX2GNl]{Confident Finisher} action, including the increase from @Compendium[pf2e.feats-srd.qeLpqH2cMSmIrILV]{Precise Finisher} if you have that feat.</p>\n<p>You can do so only if the Strike uses a weapon or unarmed attack that you could use for Confident Finisher.</p>"
 		},
 		"Evasion": {
-			"name": "Evasion",
+			"name": "Evasión",
 			"description": "<p>You've learned to move quickly to avoid explosions, dragon's breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.</p>"
 		},
 		"Evocation": {
-			"name": "Evocation",
+			"name": "Evocación",
 			"description": "<p>As an evoker, you revel in the raw power of magic, using it to create and destroy with ease. You can call forth elements, forces, and energy to devastate your foes or to assist you in other ways. You understand that the most direct approach is the most elegant. You add one 1st-level evocation spell (such as <em>@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{Shocking Grasp}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.Hu38hoAUSYeFpkVa]{Force Bolt}</em> school spell.</p>"
 		},
 		"Evolution Feat": {
@@ -666,7 +666,7 @@
 			"description": "<p>You have trained to unleash a devastating flurry of attacks upon your prey.</p>\n<p>Your multiple attack penalty for attacks against your hunted prey is -3 (-2 with an agile weapon) on your second attack of the turn instead of -5, and -6 (-4 with an agile weapon) on your third or subsequent attack of the turn, instead of -10.</p>"
 		},
 		"Flurry of Blows": {
-			"name": "Flurry of Blows",
+			"name": "Ráfaga de golpes",
 			"description": "<p>You can attack rapidly with fists, feet, elbows, knees, and other unarmed attacks. You gain the Flurry of Blows action.</p>\n<hr />\n<p>Make two unarmed @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes}. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to the Strikes normally. As it has the flourish trait, you can use Flurry of Blows only once per turn.</p>"
 		},
 		"Focus Spells": {
@@ -718,7 +718,7 @@
 			"description": "<p>You move with perpetual grace in battle, eluding and turning aside blows. Your proficiency rank for unarmored defense increases to master.</p>"
 		},
 		"Great Fortitude": {
-			"name": "Great Fortitude",
+			"name": "Gran fortaleza",
 			"description": "<p>Your physique is incredibly hardy. Your proficiency rank for Fortitude saves increases to expert.</p>"
 		},
 		"Greater Deed": {
@@ -814,11 +814,11 @@
 			"description": "<p>Your extensive physical training and carefully chosen magic combine to form a unique and dangerous fighting style that's more than the sum of its parts. You choose one field of hybrid study to represent your particular combination of skills. Your hybrid study gives you a special ability, usually tied to @Compendium[pf2e.classfeatures.KVj5ofUwu3VJSrVw]{Spellstrike} or @Compendium[pf2e.classfeatures.09iL38CZZEa0q0Mt]{Arcane Cascade}, and it determines your initial conflux spell. The hybrid studies presented in this book are as follows.</p>\n<ul>\n<li>@Compendium[pf2e.classfeatures.ZslXrvYRxHBXc1Ds]{Inexorable Iron}</li>\n<li>@Compendium[pf2e.classfeatures.3gVDqDPSz4fB5T9G]{Laughing Shadow}</li>\n<li>@Compendium[pf2e.classfeatures.maGzhKLmgubAdUlN]{Sparkling Targe}</li>\n<li>@Compendium[pf2e.classfeatures.Pew7duAozEeAemif]{Starlit Span}</li>\n<li>@Compendium[pf2e.classfeatures.6YJ8KFl7THkVy6Gm]{Twisting Tree}</li>\n</ul>"
 		},
 		"Illusion": {
-			"name": "Illusion",
+			"name": "Ilusionismo",
 			"description": "<p>As an illusionist, you use magic to create images, figments, and phantasms to baffle your enemies. You understand that perception is reality. You add one 1st-level illusion spell (such as <em>@Compendium[pf2e.spells-srd.2oH5IufzdESuYxat]{Illusory Object}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.fXdADBwxmBsU9xPk]{Warped Terrain}</em> school spell.</p>"
 		},
 		"Improved Evasion": {
-			"name": "Improved Evasion",
+			"name": "Evasión mejorada",
 			"description": "<p>Your ability to elude danger is matchless. Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead. When you roll a failure on a Reflex save against a damaging effect, you take half damage.</p>"
 		},
 		"Improved Familiar Attunement": {
@@ -838,7 +838,7 @@
 			"description": "<p>You notice things that are almost impossible for an ordinary person to detect. Your proficiency rank for Perception increases to legendary.</p>"
 		},
 		"Indomitable Will": {
-			"name": "Indomitable Will",
+			"name": "Voluntad indomable",
 			"description": "<p>Your rage makes it difficult to control you. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.</p>"
 		},
 		"Inexorable Iron": {
@@ -890,7 +890,7 @@
 			"description": "<p>You've refined your investigative techniques to an exceptional degree. Your circumstance bonus from @Compendium[pf2e.actionspf2e.xTK2zsWFyxSJvYbX]{Pursue a Lead} increases to +2. Your proficiency rank for your investigator class DC increases to expert.</p>\n<p>@Compendium[pf2e.feat-effects.uA1Ofqoyi0UiZIPk]{Effect: Clue In (Expertise)}</p>\n<p>If you have @Compendium[pf2e.feats-srd.5cYFHKQK6OZCwavI]{Detective's Readiness}, @Compendium[pf2e.feat-effects.z4pnE8KyUdEkJmru]{Effect: Clue In (Detective's Readiness, Expertise)}</p>"
 		},
 		"Iron Will": {
-			"name": "Iron Will",
+			"name": "Voluntad De Hierro",
 			"description": "<p><strong>Alchemist</strong> Your mental defenses are an iron fortress. Your proficiency rank for Will saves increases to expert.</p>\n<p><strong>Ranger</strong> Your training has hardened your resolve. Your proficiency rank for Will saves increases to expert.</p>"
 		},
 		"Juggernaut": {
@@ -998,7 +998,7 @@
 			"description": "<p>Your skill with light armor improves, increasing your ability to dodge blows. Your proficiency ranks for light armor and unarmored defense increase to master.</p>"
 		},
 		"Lightning Reflexes": {
-			"name": "Lightning Reflexes",
+			"name": "Reflejos Rápidos",
 			"description": "<p>Your reflexes are lightning fast. Your proficiency rank for Reflex saves increases to expert.</p>"
 		},
 		"Link Spells": {
@@ -1134,7 +1134,7 @@
 			"description": "<p>You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} to you if they're in natural difficult terrain or in difficult terrain resulting from a snare.</p>"
 		},
 		"Necromancy": {
-			"name": "Necromancy",
+			"name": "Nigromancia",
 			"description": "<p>As a necromancer, you call upon the powers of life and death. While your school is often vilified for its association with raising the undead, you understand that control over life also means control over healing. You add one 1st-level necromancy spell (such as <em>@Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Grim Tendrils}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.BH3sUerzMb2bWnv1]{Call of the Grave}</em> school spell.</p>"
 		},
 		"Night Patron": {
@@ -1202,7 +1202,7 @@
 			"description": "<p>You have a bevy of smaller devices of your own invention, from muscle stimulants to concussive pistons. When it's necessary, you can throw them into @Compendium[pf2e.actionspf2e.3D9kGfwg4LUZBR9A]{Overdrive} to assist you in combat.</p>"
 		},
 		"Paladin": {
-			"name": "Paladin",
+			"name": "Paladín (Paladin)",
 			"description": "<p>You're honorable, forthright, and committed to pushing back the forces of cruelty. You gain the Retributive Strike champion's reaction and the <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em> devotion spell. After the tenets of good, add these tenets:</p>\n<ul>\n<li>You must act with honor, never taking advantage of others, lying, or cheating.</li>\n<li>You must respect the lawful authority of legitimate leadership wherever you go, and follow its laws.</li>\n</ul>\n<h2 class=\"title\">Champion's Reaction</h2>\n<p>@Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} <span class=\"pf2-icon\">R</span></p>\n<p><strong>Trigger</strong> An enemy damages your ally, and both are within 15 feet of you</p>\n<hr />\n<p>You protect your ally and strike your foe. The ally gains resistance to all damage against the triggering damage equal to 2 + your level. If the foe is within reach, make a melee Strike against it.</p>\n<h2 class=\"title\">Divine Smite<span style=\"float: right;\">Level 9</span></h2>\n<p>You surround evil targets in a punishing halo. If you hit with your Retributive Strike, the target takes @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Good Damage} equal to your Charisma modifier.</p>\n<h2 class=\"title\">Exalt<span style=\"float: right;\">Level 11</span></h2>\n<p>When you use Retributive Strike, each ally within 15 feet of you with the target in their melee reach can spend a reaction to Strike the target with a -5 penalty.</p>"
 		},
 		"Panache": {
@@ -1322,7 +1322,7 @@
 			"description": "<p>You Strike with flair. When you have panache and you Strike with an agile or finesse melee weapon or agile or finesse unarmed attack, you deal 2 additional precision damage. If the strike is part of a finisher, the additional damage is 2d6 precision damage instead.</p>\n<p>As your swashbuckler level increases, so does your additional damage for precise strike. Increase the amount of additional damage on a Strike and the number of additional dice on a finisher by one at 5th, 9th, 13th, and 17th levels.</p>"
 		},
 		"Precision": {
-			"name": "Precision",
+			"name": "Precisión",
 			"description": "<p>You have trained to aim for your prey's weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision damage. (Precision damage increases the damage you already deal, using the same type, but is ineffective against creatures that lack vital organs or weak points.)</p>\n<p>At 11th level, the extra damage increases to 2d8 precision damage, and at 19th level, the extra damage increases to 3d8 precision damage.</p>"
 		},
 		"Primal Hierophant": {
@@ -1342,7 +1342,7 @@
 			"description": "<p>You recover from your Rage quickly, and are soon ready to begin anew. After you spend a full turn without raging, you can Rage again without needing to wait 1 minute.</p>"
 		},
 		"Rage": {
-			"name": "Rage",
+			"name": "Furia",
 			"description": "<p><strong>Requirements</strong> You aren't fatigued or raging.</p>\n<p><strong>Grants</strong> @Compendium[pf2e.feature-effects.z3uyCMBddrPK5umr]{Effect: Rage}</p>\n<hr />\n<p>You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall unconscious, whichever comes first. You can't voluntarily stop raging. While you are raging:</p>\n<ul>\n<li>You deal 2 additional damage on melee Strikes. This additional damage is halved if your weapon or unarmed attack is agile.</li>\n<li>You take a -1 penalty to AC.</li>\n<li>You can't use actions with the concentrate trait unless they also have the rage trait. You can Seek while raging.</li>\n</ul>\n<p>After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute.</p>"
 		},
 		"Raging Resistance": {
@@ -1482,7 +1482,7 @@
 			"description": "<p>At 3rd level and every odd-numbered level thereafter, you gain a skill feat. This feat must be for an Intelligence-, Wisdom-, or Charisma-based skill, or for the skill you gained from your methodology.</p>"
 		},
 		"Slippery Mind": {
-			"name": "Slippery Mind",
+			"name": "Mente escurridiza",
 			"description": "<p>You play mental games and employ cognitive tricks to throw off mind-altering effects. Your proficiency rank for Will saves increases to master. When you roll a success at a Will save, you get a critical success instead.</p>"
 		},
 		"Snake Animal Instinct": {
@@ -1490,7 +1490,7 @@
 			"description": "<p>The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature.</p>\n<ul>\n<li><strong>Snake Instinct</strong></li>\n<ul>\n<li><strong>Fangs</strong> (Grapple, Unarmed) 1d10 Piercing</li>\n</ul>\n</ul>\n<h2 class=\"title\">Anathema</h2>\n<p>Flagrantly disrespecting an animal of your chosen kind is anathema to your instinct, as is using weapons while raging.</p>\n<h2 class=\"title\">Bestial Rage (Instinct Ability)</h2>\n<p>When you Rage, you gain your chosen animal's unarmed attack (or attacks). The specific attack gained, the damage it deals, and its traits are listed on Table 3-3: Animal Instincts. These attacks are in the brawling group. Your Rage action gains the morph, primal, and transmutation traits.</p>\n<h2 class=\"title\">Specialization Ability</h2>\n<p>Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal's unarmed attacks. The frog's tongue attack and deer's antler attack gain reach 10 feet. If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal's unarmed attacks.</p>\n<h2 class=\"title\">Raging Resistance</h2>\n<p>You resist piercing and slashing damage.</p>"
 		},
 		"Sneak Attack": {
-			"name": "Sneak Attack",
+			"name": "Ataque furtivo",
 			"description": "<p>When your enemy can't properly defend itself, you take advantage to deal extra damage. If you Strike a creature that has the @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, or a ranged weapon attack, you deal an extra 1d6 precision damage. For a ranged attack with a thrown melee weapon, that weapon must also be agile or finesse.</p>\n<p>As your rogue level increases, so does the number of damage dice for your sneak attack. Increase the number of dice by one at 5th, 11th, and 17th levels.</p>"
 		},
 		"Sorcerer Spellcasting": {
@@ -1574,7 +1574,7 @@
 			"description": "<p>A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your rage is inimical to magic.</p>\n<p>This makes you an excellent mage hunter but slow to trust practitioners of magical arts. Your extremely restrictive anathema grants you powers beyond those of other instincts.</p>\n<h2>Anathema</h2>\n<p>Willingly accepting the effects of magic spells (including from scrolls, wands, and the like), even from your allies, is anathema to your instinct. You can still drink potions and invest and activate most magic items you find, though items that cast spells are subject to the same restrictions as all other spells. If an ally insists on using magic on you despite your unwillingness, and you have no reason to believe they will stop, continuing to travel with that ally of your own free will counts as willingly accepting their spells (as do similar circumstances) and thus is also anathema to your instinct.</p>\n<h2>Superstitious Resiliance (Instinct Ability)</h2>\n<p>While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you Rage, you regain Hit Points equal to the temporary Hit Points you gain from that Rage action.</p>\n<h2>Specialization Ability 7th</h2>\n<p>Increase the damage from Rage from 4 to 8 against creatures that can cast spells. If you have greater raging specialization, instead increase the damage from Rage to 12 against creatures with spells and 8 against other creatures.</p>\n<h2>Raging Resistance 9th</h2>\n<p>Choose two associated magical traditions: arcane and occult, arcane and primal, divine and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell.</p>"
 		},
 		"Surprise Attack": {
-			"name": "Surprise Attack",
+			"name": "Ataque por sorpresa",
 			"description": "<p>You spring into combat faster than foes can react. On the first round of combat, if you roll Deception or Stealth for initiative, creatures that haven't acted are flat-footed to you.</p>"
 		},
 		"Swashbuckler Expertise": {
@@ -1642,11 +1642,11 @@
 			"description": "<p>You specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level alchemical poisons in your formula book, in addition to your other formulas.</p>\n<p>Your research field adds a number of formulas to your formula book; these are your signature items. When using a batch of @Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]{Infused Reagents} to create your signature items using @Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Advanced Alchemy}, you create three items instead of two. Each time you gain a level, you can swap one of your signature items with another formula in your formula book. This new signature item must be on your research field's list of possible signature items.</p>\n<p>You can apply an injury poison you're holding to a weapon you're wielding as a single action, rather than as a 2-action activity, and you can change the DCs of your infused poisons to your class DC if it's higher.</p>\n<h2 class=\"title\">@Compendium[pf2e.classfeatures.6zo2PJGYoig7nFpR]{Field Discovery}<span style=\"float: right;\">Level 5</span></h2>\n<p>When using Advanced Alchemy to make poisons during your daily preparations, you can spend one batch of reagents to create three poisons in any combination, instead of just two of the same poison.</p>\n<h2 class=\"title\">@Compendium[pf2e.classfeatures.LlZ5R50z9j8jysZL]{Perpetual Infusions}<span style=\"float: right;\">Level 7</span></h2>\n<p>You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items. You gain the ability to create two 1st-level alchemical items using @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy}without spending a batch of infused reagents. The items you can select depend on your research field and must be in your formula book.</p>\n<p>Choose two common 1st-level alchemical poisons.</p>\n<h2 class=\"title\">@Compendium[pf2e.classfeatures.JOdbVu14phvdjhaY]{Perpetual Potency}<span style=\"float: right;\">Level 11</span></h2>\n<p>Your perpetual infusions improve, allowing you to use Quick Alchemy to create more powerful items with no cost. The items you can select depend on your research field and must be in your formula book.</p>\n<p>Choose two common 5th-level or lower alchemical poisons.</p>\n<h2 class=\"title\">@Compendium[pf2e.classfeatures.tnqyQrhrZeDtDvcO]{Greater Field Discovery}<span style=\"float: right;\">Level 13</span></h2>\n<p>You can apply two different injury poisons to the same weapon, though not to a piece of ammunition. The two poisons can be up to six levels lower than your level, and you can't use the poisons made without spending a batch of infused reagents via perpetual infusions. Applying the two poisons requires a separate action to apply each poison.</p>\n<p>Once completed, you combine the two poisons on the weapon into a double poison with the lower of the two poisons' DCs. This double poison is only virulent if both poisons were virulent, and if the poisons have a different number of stages, the double poison has a number of stages equal to the poison with the lower number of stages. The target takes the effects of both poisons for its current stage.</p>\n<h2 class=\"title\">@Compendium[pf2e.classfeatures.3R19zS7gERhEX87F]{Perpetual Perfection}<span style=\"float: right;\">Level 17</span></h2>\n<p>You have perfected your perpetual infusions, allowing you to use Quick Alchemy to create even more powerful items at no cost. The items you can select depend on your research field and must be in your formula book.</p>\n<p>Choose two common 11th-level or lower alchemical poisons.</p>"
 		},
 		"Trackless Step": {
-			"name": "Trackless Step",
+			"name": "Pisada sin rastro",
 			"description": "<p>When you move through natural terrains, you are difficult to track. You always gain the benefits of the @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Cover Tracks} action in such terrains, without moving at half your Speed.</p>"
 		},
 		"Transmutation": {
-			"name": "Transmutation",
+			"name": "Transmutación",
 			"description": "<p>As a transmuter, you alter the physical properties of things, transforming creatures, objects, the natural world, and even yourself at your whim. You understand that change is inevitable. You add one 1st-level transmutation spell (such as <em>@Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]{Magic Weapon}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.1lmzILdCFENln8Cy]{Physical Boost}</em> school spell.</p>"
 		},
 		"Twin Juggernauts": {
@@ -1754,7 +1754,7 @@
 			"description": "<p>You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your connection by drinking or bathing in dragon's blood or after watching a marauding wyrm burn your village.</p>\n<ul>\n<li><strong>White Dragon</strong></li>\n<ul>\n<li><strong>Type</strong> Chromatic</li>\n<li><strong>Breath Weapon</strong> Cone of Cold</li>\n</ul>\n</ul>\n<h2 class=\"title\">Anathema</h2>\n<p>Letting a personal insult against you slide is anathema to your instinct. Choose whether your character respects or abhors your dragon type. If you respect it, defying such a dragon is anathema, and if you abhor it, failing to defeat such a dragon you come across is anathema.</p>\n<h2 class=\"title\">Draconic Rage (Instinct Ability)</h2>\n<p>While raging, you can increase the additional damage from Rage from 2 to 4 and change its damage type to match that of your dragon's breath weapon instead of the damage type for your weapon or unarmed attack. If you do this, your Rage action gains the arcane and evocation traits, as well as the trait matching the damage type.</p>\n<h2 class=\"title\">Specialization Ability</h2>\n<p>When you use draconic rage, you increase the additional damage from Rage from 4 to 8. If you have greater weapon specialization, instead increase the damage from Rage when using draconic rage from 8 to 16.</p>\n<h2 class=\"title\">Raging Resistance</h2>\n<p>You resist piercing damage and the damage type of your dragon's breath weapon.</p>"
 		},
 		"Wild Empathy": {
-			"name": "Wild Empathy",
+			"name": "Empatía salvaje",
 			"description": "<p>You have a connection to the creatures of the natural world that allows you to communicate with them on a rudimentary level. You can use Diplomacy to Make an Impression on animals and to make very simple Requests of them. In most cases, wild animals will give you time to make your case.</p>"
 		},
 		"Wild Order": {

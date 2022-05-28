@@ -3,11 +3,11 @@
 	"entries": {
 		"Absorb into the Aegis": {
 			"name": "Absorber en la Égida",
-			"description": "<p><strong>Trigger</strong> An enemy casts a spell that targets you or an ally within 15 feet of you</p>\n<hr />\n<p>You interpose your shield's ward against the spell. Attempt a counteract check, using your Religion modifier as your counteract modifier. On a success, the spell is counteracted and your shield takes damage equal to four times the spell level as it absorbs and disperses the magical energy. On a failure, the shield takes damage equal to twice the spell's level.</p>"
+			"description": "<p><strong>Trigger</strong>Un enemigo lanza un hechizo que tiene como objetivo a ti o a un aliado a menos de 15 pies de ti</p>\n<hr />\n<p>Interpones la protecci&oacute;n de tu escudo contra el hechizo. Intenta un chequeo de contrarrestar, utilizando tu modificador de Religi&oacute;n como modificador de contrarrestar. Si tienes &eacute;xito, el hechizo es contrarrestado y tu escudo recibe un da&ntilde;o igual a cuatro veces el nivel del hechizo mientras absorbe y dispersa la energ&iacute;a m&aacute;gica. Si fallas, el escudo recibe un da&ntilde;o igual al doble del nivel del hechizo.</p>"
 		},
 		"Accidental Shot": {
 			"name": "Accidental Shot",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> You make a Strike with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} or @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden}.</p>"
+			"description": "<p><strong>Frequencia</strong> una vez por dia</p>\n<hr />\n<p><strong>Efecto</strong> Haces un Golpe con un arma a distancia, tirando el ataque y el daño dos veces y usando los mejores resultados para cada uno. El ataque ignora las penalizaciones de circunstancia a la tirada de ataque y cualquier chequeo plano requerido debido a que el objetivo es @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Oculto} o @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Escondido}.</p>"
 		},
 		"Act Together": {
 			"name": "Act Together",

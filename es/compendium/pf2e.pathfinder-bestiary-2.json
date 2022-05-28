@@ -1,5 +1,5 @@
 {
-	"label": "Bestiary 2",
+	"label": "Bestiario 2",
 	"entries": {
 		"Aapoph Serpentfolk": {
 			"name": "Aapoph Serpentfolk"
@@ -92,10 +92,10 @@
 			"name": "Army Ant Swarm"
 		},
 		"Assassin Vine": {
-			"name": "Assassin Vine"
+			"name": "Enredadera asesina"
 		},
 		"Athach": {
-			"name": "Athach"
+			"name": "Atach"
 		},
 		"Attic Whisperer": {
 			"name": "Attic Whisperer"
@@ -113,10 +113,10 @@
 			"name": "Azuretzi"
 		},
 		"Babau": {
-			"name": "Babau"
+			"name": "Babau (demonio)"
 		},
 		"Badger": {
-			"name": "Badger"
+			"name": "Tejón"
 		},
 		"Baobhan Sith": {
 			"name": "Baobhan Sith"
@@ -128,7 +128,7 @@
 			"name": "Bastion Archon"
 		},
 		"Bebilith": {
-			"name": "Bebilith"
+			"name": "Bébilith"
 		},
 		"Behemoth Hippopotamus": {
 			"name": "Behemoth Hippopotamus"
@@ -137,10 +137,10 @@
 			"name": "Behir"
 		},
 		"Belker": {
-			"name": "Belker"
+			"name": "Bélkero"
 		},
 		"Black Bear": {
-			"name": "Black Bear"
+			"name": "Oso negro"
 		},
 		"Black Dracolisk": {
 			"name": "Black Dracolisk"
@@ -152,7 +152,7 @@
 			"name": "Blindheim"
 		},
 		"Blink Dog": {
-			"name": "Blink Dog"
+			"name": "Perro intermitente"
 		},
 		"Blizzardborn": {
 			"name": "Blizzardborn"
@@ -182,7 +182,7 @@
 			"name": "Bottlenose Dolphin"
 		},
 		"Bralani": {
-			"name": "Bralani"
+			"name": "Bralani (eladrín)"
 		},
 		"Brood Leech Swarm": {
 			"name": "Brood Leech Swarm"
@@ -233,7 +233,7 @@
 			"name": "Chernobue"
 		},
 		"Choker": {
-			"name": "Choker"
+			"name": "Ahogador"
 		},
 		"Chupacabra": {
 			"name": "Chupacabra"
@@ -272,7 +272,7 @@
 			"name": "Destrachan"
 		},
 		"Devourer": {
-			"name": "Devourer"
+			"name": "Devorador"
 		},
 		"Dig-Widget": {
 			"name": "Dig-Widget"
@@ -287,7 +287,7 @@
 			"name": "Draugr"
 		},
 		"Dread Wraith": {
-			"name": "Dread Wraith"
+			"name": "Incorpóreo aterrador"
 		},
 		"Dream Spider": {
 			"name": "Dream Spider"
@@ -296,7 +296,7 @@
 			"name": "Duneshaker Solifugid"
 		},
 		"Dust Mephit": {
-			"name": "Dust Mephit"
+			"name": "Méfit de polvo"
 		},
 		"Dweomercat": {
 			"name": "Dweomercat"
@@ -305,7 +305,7 @@
 			"name": "Earthen Destrier"
 		},
 		"Elasmosaurus": {
-			"name": "Elasmosaurus"
+			"name": "Elasmosauro (dinosaurio)"
 		},
 		"Ember Fox": {
 			"name": "Ember Fox"
@@ -350,7 +350,7 @@
 			"name": "Frost Troll"
 		},
 		"Frost Worm": {
-			"name": "Frost Worm"
+			"name": "Gusano de la escarcha"
 		},
 		"Ghonhatine": {
 			"name": "Ghonhatine"
@@ -362,7 +362,7 @@
 			"name": "Giant Ant"
 		},
 		"Giant Badger": {
-			"name": "Giant Badger"
+			"name": "Tejón gigante"
 		},
 		"Giant Chameleon": {
 			"name": "Giant Chameleon"
@@ -371,7 +371,7 @@
 			"name": "Giant Cockroach"
 		},
 		"Giant Crab": {
-			"name": "Giant Crab"
+			"name": "Cangrejo gigante"
 		},
 		"Giant Crawling Hand": {
 			"name": "Giant Crawling Hand"
@@ -383,10 +383,10 @@
 			"name": "Giant Dragonfly Nymph"
 		},
 		"Giant Fly": {
-			"name": "Giant Fly"
+			"name": "Mosca gigante"
 		},
 		"Giant Frog": {
-			"name": "Giant Frog"
+			"name": "Rana gigante"
 		},
 		"Giant Hippocampus": {
 			"name": "Giant Hippocampus"
@@ -419,7 +419,7 @@
 			"name": "Giant Tick"
 		},
 		"Giant Toad": {
-			"name": "Giant Toad"
+			"name": "Sapo gigante"
 		},
 		"Giant Whiptail Centipede": {
 			"name": "Giant Whiptail Centipede"
@@ -431,7 +431,7 @@
 			"name": "Glass Golem"
 		},
 		"Gorgon": {
-			"name": "Gorgon"
+			"name": "Gorgón"
 		},
 		"Gosreg": {
 			"name": "Gosreg"
@@ -440,7 +440,7 @@
 			"name": "Granite Glyptodont"
 		},
 		"Gray Ooze": {
-			"name": "Gray Ooze"
+			"name": "Cieno gris (cieno)"
 		},
 		"Green Dracolisk": {
 			"name": "Green Dracolisk"
@@ -473,13 +473,13 @@
 			"name": "Hellcat"
 		},
 		"Hezrou": {
-			"name": "Hezrou"
+			"name": "Hezrou (demonio)"
 		},
 		"Hippocampus": {
 			"name": "Hippocampus"
 		},
 		"Hippogriff": {
-			"name": "Hippogriff"
+			"name": "Hipogrifo"
 		},
 		"Hippopotamus": {
 			"name": "Hippopotamus"
@@ -488,7 +488,7 @@
 			"name": "Hodag"
 		},
 		"Hound Archon": {
-			"name": "Hound Archon"
+			"name": "Canarconte"
 		},
 		"Hound Of Tindalos": {
 			"name": "Hound Of Tindalos"
@@ -497,7 +497,7 @@
 			"name": "Ice Golem"
 		},
 		"Ice Mephit": {
-			"name": "Ice Mephit"
+			"name": "Méfit dehielo"
 		},
 		"Ice Yai": {
 			"name": "Ice Yai"
@@ -584,7 +584,7 @@
 			"name": "Mandragora"
 		},
 		"Manta Ray": {
-			"name": "Manta Ray"
+			"name": "Mantarraya"
 		},
 		"Marrmora": {
 			"name": "Marrmora"
@@ -593,7 +593,7 @@
 			"name": "Marsh Giant"
 		},
 		"Marut": {
-			"name": "Marut"
+			"name": "Marut (inevitable)"
 		},
 		"Mastodon": {
 			"name": "Mastodon"
@@ -632,7 +632,7 @@
 			"name": "Nabasu"
 		},
 		"Nalfeshnee": {
-			"name": "Nalfeshnee"
+			"name": "Nalfeshnee (Nalfeshnee)"
 		},
 		"Necrophidius": {
 			"name": "Necrophidius"
@@ -644,7 +644,7 @@
 			"name": "Nereid"
 		},
 		"Nixie": {
-			"name": "Nixie"
+			"name": "Nixi (duende)"
 		},
 		"Norn": {
 			"name": "Norn"
@@ -668,10 +668,10 @@
 			"name": "Onidoshi"
 		},
 		"Ooze Mephit": {
-			"name": "Ooze Mephit"
+			"name": "Méfit de cieno"
 		},
 		"Orca": {
-			"name": "Orca"
+			"name": "Orco"
 		},
 		"Oread Guard": {
 			"name": "Oread Guard"
@@ -758,7 +758,7 @@
 			"name": "Planetar"
 		},
 		"Polar Bear": {
-			"name": "Polar Bear"
+			"name": "Oso polar"
 		},
 		"Purrodaemon": {
 			"name": "Purrodaemon"
@@ -776,7 +776,7 @@
 			"name": "Radiant Warden"
 		},
 		"Raven": {
-			"name": "Raven"
+			"name": "Cuervo"
 		},
 		"Raven Swarm": {
 			"name": "Raven Swarm"
@@ -797,7 +797,7 @@
 			"name": "Revenant"
 		},
 		"Rhinoceros": {
-			"name": "Rhinoceros"
+			"name": "Rinoceronte"
 		},
 		"Rusalka": {
 			"name": "Rusalka"
@@ -842,7 +842,7 @@
 			"name": "Shoal Linnorm"
 		},
 		"Shocker Lizard": {
-			"name": "Shocker Lizard"
+			"name": "Lagarto electrizante"
 		},
 		"Shoggti": {
 			"name": "Shoggti"
@@ -875,7 +875,7 @@
 			"name": "Spear Frog"
 		},
 		"Specter": {
-			"name": "Specter"
+			"name": "Espectro"
 		},
 		"Spinosaurus": {
 			"name": "Spinosaurus"
@@ -884,7 +884,7 @@
 			"name": "Spiral Centurion"
 		},
 		"Spirit Naga": {
-			"name": "Spirit Naga"
+			"name": "Naga espiritual (Spirit Naga)"
 		},
 		"Sportlebore Swarm": {
 			"name": "Sportlebore Swarm"
@@ -899,7 +899,7 @@
 			"name": "Star Archon"
 		},
 		"Steam Mephit": {
-			"name": "Steam Mephit"
+			"name": "Mephit de vapor (Steam Mephit)"
 		},
 		"Stingray": {
 			"name": "Stingray"
@@ -929,7 +929,7 @@
 			"name": "Tatzlwyrm"
 		},
 		"Tendriculos": {
-			"name": "Tendriculos"
+			"name": "Zarcículos"
 		},
 		"Thanadaemon": {
 			"name": "Thanadaemon"
@@ -956,13 +956,13 @@
 			"name": "Totenmaske"
 		},
 		"Triton": {
-			"name": "Triton"
+			"name": "Tritón"
 		},
 		"Trollhound": {
 			"name": "Trollhound"
 		},
 		"Trumpet Archon": {
-			"name": "Trumpet Archon"
+			"name": "Clangarconte"
 		},
 		"Twigjack": {
 			"name": "Twigjack"
@@ -1004,7 +1004,7 @@
 			"name": "Vexgit"
 		},
 		"Violet Fungus": {
-			"name": "Violet Fungus"
+			"name": "Hongo violeta"
 		},
 		"Viper Vine": {
 			"name": "Viper Vine"
@@ -1031,10 +1031,10 @@
 			"name": "Water Yai"
 		},
 		"Wereboar": {
-			"name": "Wereboar"
+			"name": "Hombre jabalí"
 		},
 		"Weretiger": {
-			"name": "Weretiger"
+			"name": "Hombre tigre"
 		},
 		"White Dracolisk": {
 			"name": "White Dracolisk"
@@ -1046,7 +1046,7 @@
 			"name": "Witchwyrd"
 		},
 		"Wolverine": {
-			"name": "Wolverine"
+			"name": "Glotón"
 		},
 		"Wood Giant": {
 			"name": "Wood Giant"
@@ -1061,7 +1061,7 @@
 			"name": "Worm That Walks Cultist"
 		},
 		"Xill": {
-			"name": "Xill"
+			"name": "Xilo"
 		},
 		"Yamaraj": {
 			"name": "Yamaraj"
@@ -1076,7 +1076,7 @@
 			"name": "Yellow Musk Thrall"
 		},
 		"Yeth Hound": {
-			"name": "Yeth Hound"
+			"name": "Sabueso yez"
 		},
 		"Young Brine Dragon": {
 			"name": "Young Brine Dragon"
@@ -1112,7 +1112,7 @@
 			"name": "Zebub"
 		},
 		"Zelekhut": {
-			"name": "Zelekhut"
+			"name": "Zelekhut (inevitable)"
 		},
 		"Zomok": {
 			"name": "Zomok"

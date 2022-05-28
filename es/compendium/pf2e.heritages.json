@@ -282,7 +282,7 @@
 			"description": "<p>You're a large, powerful gnoll, with tawny fur and brown spots on your hide. You gain 10 Hit Points from your ancestry instead of 8 and gain a +1 circumstance bonus to Athletics checks to Shove or Trip foes.</p>"
 		},
 		"Grig": {
-			"name": "Grig",
+			"name": "Gric",
 			"description": "<p>You have the hindquarters of a cricket and adore art and music. Your cricket legs grant you a +2 circumstance bonus on Athletics checks to High Jump or Long Jump, and you gain <em>@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Ghost Sound}</em> as a primal innate cantrip.</p>"
 		},
 		"Gutsy Halfling": {
@@ -290,11 +290,11 @@
 			"description": "<p>Your family line is known for keeping a level head and staving off fear when the chips were down, making them wise leaders and sometimes even heroes. When you roll a success on a saving throw against an emotion effect, you get a critical success instead.</p>"
 		},
 		"Half-Elf": {
-			"name": "Half-Elf",
+			"name": "Semielfo",
 			"description": "<p>Either one of your parents was an elf, or one or both were half-elves. You have pointed ears and other telltale signs of elf heritage. You gain the elf trait, the half-elf trait, and @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}. In addition, you can select elf, half-elf, and human feats whenever you gain an ancestry feat.</p>"
 		},
 		"Half-Orc": {
-			"name": "Half-Orc",
+			"name": "Semiorco",
 			"description": "<p>One of your parents was an orc, or one or both were half-orcs. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait, the half-orc trait, and @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}. In addition, you can select orc, half-orc, and human feats whenever you gain an ancestry feat.</p>"
 		},
 		"Hillock Halfling": {
@@ -442,7 +442,7 @@
 			"description": "<p>You excrete a thick, sticky sap from your bark-like flesh, making it easier to climb and hold onto your gear. You gain the @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combat Climber} feat as a bonus feat, and you gain a +2 circumstance bonus to your Reflex DC against attempts to @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm} you.</p>"
 		},
 		"Pixie": {
-			"name": "Pixie",
+			"name": "Pixi (duende)",
 			"description": "<p>You are larger than other sprites. Instead of Tiny, your size is Small.</p>"
 		},
 		"Poisonhide Grippli": {
@@ -682,7 +682,7 @@
 			"description": "<p>You are a rare shoony who hails from colder climes. You gain cold resistance equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on). You don't need to succeed at a flat check to target a concealed creature if that creature is @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} only by snow. Unless you wear protective gear or take shelter, environmental heat effects are one step more extreme for you.</p>"
 		},
 		"Tiefling": {
-			"name": "Tiefling",
+			"name": "Tiflin",
 			"description": "<p>You descend from fiends or bear the mark of the fiendish realms, manifesting as some unusual feature that belies your heritage, such as horns or a tail. You gain the tiefling trait, in addition to the traits from your ancestry. You also gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if your ancestry already has low-light vision. You can choose from tiefling feats and feats from your ancestry whenever you gain an ancestry feat.</p>"
 		},
 		"Toy Poppet": {

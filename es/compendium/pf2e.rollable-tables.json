@@ -1,5 +1,5 @@
 {
-	"label": "Rollable Tables",
+	"label": "Tablas dinámicas",
 	"entries": {
 		"10th-Level Consumables Items": {
 			"name": "10th-Level Consumables Items",
@@ -178,7 +178,7 @@
 			"description": "Potential illusions drawn randomly from the deck. The card is destroyed on use."
 		},
 		"Deck of Many Things": {
-			"name": "Deck of Many Things",
+			"name": "Baraja de múltiples cosas",
 			"description": "These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images or glyphs depicting symbols of magical power. Looking at a card without activating it shows the card face but has no magical effect. Once the deck is face down, the cards randomize themselves-if you look at the top card multiple times, you may find it changes. Any card removed from the deck goes missing after a few seconds, reappearing in the deck. "
 		},
 		"Deities, Faiths and Philosophies": {

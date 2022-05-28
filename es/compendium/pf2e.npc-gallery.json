@@ -26,7 +26,7 @@
 			"name": "Archer Sentry"
 		},
 		"Assassin": {
-			"name": "Assassin"
+			"name": "Asesino"
 		},
 		"Astronomer": {
 			"name": "Astronomer"
@@ -41,7 +41,7 @@
 			"name": "Azarketi Tide Tamer"
 		},
 		"Bandit": {
-			"name": "Bandit"
+			"name": "Bandido"
 		},
 		"Barkeep": {
 			"name": "Barkeep"
@@ -83,13 +83,13 @@
 			"name": "Chronicler"
 		},
 		"Commoner": {
-			"name": "Commoner"
+			"name": "Plebeyo"
 		},
 		"Cult Leader": {
 			"name": "Cult Leader"
 		},
 		"Cultist": {
-			"name": "Cultist"
+			"name": "Sectario"
 		},
 		"Dancer": {
 			"name": "Dancer"
@@ -131,7 +131,7 @@
 			"name": "Gravedigger"
 		},
 		"Guard": {
-			"name": "Guard"
+			"name": "Guardia"
 		},
 		"Guide": {
 			"name": "Guide"
@@ -242,7 +242,7 @@
 			"name": "Servant"
 		},
 		"Server": {
-			"name": "Server"
+			"name": "Servidor"
 		},
 		"Ship Captain": {
 			"name": "Ship Captain"
@@ -251,7 +251,7 @@
 			"name": "Smith"
 		},
 		"Spy": {
-			"name": "Spy"
+			"name": "Espía"
 		},
 		"Stone Giant Monk": {
 			"name": "Stone Giant Monk"

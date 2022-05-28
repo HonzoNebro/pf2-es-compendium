@@ -34,7 +34,7 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
 		},
 		"Change Shape": {
-			"name": "Change Shape",
+			"name": "Cambiar de forma",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
 		},
 		"Constant Spells": {
@@ -50,7 +50,7 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
 		},
 		"Darkvision": {
-			"name": "Darkvision",
+			"name": "Visión en la oscuridad",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
 		},
 		"Disease": {
@@ -58,11 +58,11 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Disease]</p>"
 		},
 		"Engulf": {
-			"name": "Engulf",
+			"name": "Absorber",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
 		},
 		"Fast Healing": {
-			"name": "Fast Healing",
+			"name": "Curación rápida",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
 		},
 		"Ferocity": {
@@ -74,7 +74,7 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FormUp]</p>"
 		},
 		"Frightful Presence": {
-			"name": "Frightful Presence",
+			"name": "Presencia aterradora",
 			"description": "<p>@Template[type:emanation|distance:0]{0 feet} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} @Check[type:will]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
 		},
 		"Grab": {
@@ -110,7 +110,7 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
 		},
 		"Light Blindness": {
-			"name": "Light Blindness",
+			"name": "Ceguera a la luz",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
 		},
 		"Low-Light Vision": {
@@ -126,11 +126,11 @@
 			"description": "<p><strong>Trigger</strong> A creature targets you with an attack and you can see the attacker.</p>\n<p><strong>Requirements</strong> You are not encumbered</p>\n<hr />\n<p>You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.</p>"
 		},
 		"Poison": {
-			"name": "Poison",
+			"name": "Veneno",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Poison]</p>"
 		},
 		"Power Attack": {
-			"name": "Power Attack",
+			"name": "Ataque poderoso",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.PowerAttack]</p>"
 		},
 		"Push": {
@@ -138,7 +138,7 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
 		},
 		"Regeneration": {
-			"name": "Regeneration",
+			"name": "Regeneración",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
 		},
 		"Rend": {
@@ -150,7 +150,7 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
 		},
 		"Scent": {
-			"name": "Scent",
+			"name": "Olfato",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
 		},
 		"Shield Block": {
@@ -158,7 +158,7 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
 		},
 		"Sneak Attack": {
-			"name": "Sneak Attack",
+			"name": "Ataque furtivo",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
 		},
 		"Swallow Whole": {
@@ -182,11 +182,11 @@
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
 		},
 		"Trample": {
-			"name": "Trample",
+			"name": "Pisotear",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
 		},
 		"Tremorsense": {
-			"name": "Tremorsense",
+			"name": "Sentir vibraciones",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
 		},
 		"Troop Defenses": {

@@ -10,7 +10,7 @@
 			"description": "<p>Your familiar knows how to act cute or focused on cue, helping you make a good impression.</p>\n<p>Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aid} you on a Diplomacy check to @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Make an Impression} (it still has to prepare to help you as normal for the Aid reaction, which requires it to participate throughout the activity).</p>\n<p>It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.</p>"
 		},
 		"Amphibious": {
-			"name": "Amphibious",
+			"name": "Anfibio",
 			"description": "<p>It gains a swim Speed of 25 feet (or Speed of 25 feet if it already has a swim Speed).</p>"
 		},
 		"Burrower": {
@@ -42,7 +42,7 @@
 			"description": "<p>Your familiar naturally recovers in the shadows. After spending 10 consecutive minutes in an area of dim light or darkness, your familiar recovers a number of Hit Points equal to half your level.</p>\n<p>This ability is for a shadow familiar. A shadowcaster, however, can select this ability for any kind of familiar.</p>"
 		},
 		"Darkvision": {
-			"name": "Darkvision",
+			"name": "Visión en la oscuridad",
 			"description": "<p>It gains darkvision.</p>"
 		},
 		"Extra Reagents": {
@@ -82,7 +82,7 @@
 			"description": "<p>Your familiar grows a set of gills, allowing it to breathe water in addition to air.</p>"
 		},
 		"Grasping Tendrils": {
-			"name": "Grasping Tendrils",
+			"name": "Zarcillos prensiles",
 			"description": "<p>Prequisites @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Leshy Familiar Secrets}</p>\n<p>Your familiar can extend vines or similar tendrils, increasing its reach to 15 feet.</p>"
 		},
 		"Greater Resistance": {
@@ -146,7 +146,7 @@
 			"description": "<p>You can summon your familiar to your side. Once per day, you can use a 3-action activity, which has the concentrate trait, to teleport your familiar to your space. Your familiar must be within 1 mile or the attempt to summon it fails. This is a conjuration and teleport effect.</p>"
 		},
 		"Resistance": {
-			"name": "Resistance",
+			"name": "Resistencia",
 			"description": "<p>Choose two of the following: acid, cold, electricity, fire, poison, or sonic. Your familiar gains resistance equal to half your level against the chosen damage types.</p>"
 		},
 		"Restorative Familiar": {
@@ -154,7 +154,7 @@
 			"description": "<p>Once per day, your familiar can use 2 actions with the concentrate trait to give up some of its animating energy and heal you. It must be in your space to do so. You restore a number of Hit Points equal to [[/r max(floor(@actor.level/2)d8, 1d8)]]{1d8 times half your level} (minimum 1d8).</p>"
 		},
 		"Scent": {
-			"name": "Scent",
+			"name": "Olfato",
 			"description": "<p>It gains scent (imprecise, 30 feet).</p>"
 		},
 		"Second Opinion": {
@@ -174,7 +174,7 @@
 			"description": "<p>Choose a skill other than Acrobatics or Stealth. Your familiar's modifier for that skill is equal to your level plus your key spellcasting ability modifier, rather than just your level. You can select this ability repeatedly, choosing a different skill each time.</p>"
 		},
 		"Snoop": {
-			"name": "Snoop",
+			"name": "Fisgonear",
 			"description": "<p>Your familiar keeps its eyes and ears open, ready to relay every snippet of gossip it catches, helping you gather information.</p>\n<p>Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aid} you on a Diplomacy check to @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Gather Information} (it still has to prepare to help you as normal for the Aid reaction, which requires it to participate throughout the activity).</p>\n<p>It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.</p>"
 		},
 		"Speech": {
@@ -190,7 +190,7 @@
 			"description": "<p>If your familiar is in your space, you can cast a spell with a range of touch, transfer its power to your familiar, and command the familiar to deliver the spell. If you do, the familiar uses its 2 actions for the round to move to a target of your choice and touch that target. If it doesn't reach the target to touch it this turn, the spell has no effect.</p>"
 		},
 		"Spellcasting": {
-			"name": "Spellcasting",
+			"name": "Lanzamiento de conjuros",
 			"description": "<p>Choose a spell in your repertoire or that you prepared today at least 5 levels lower than your highest-level spell slot. Your familiar can Cast that Spell once per day using your magical tradition, spell attack modifier, and spell DC. If the spell has a drawback that affects the caster, both you and your familiar are affected. You must be able to cast 6th-level spells using spell slots to select this.</p>"
 		},
 		"Tattoo Transformation": {
@@ -214,7 +214,7 @@
 			"description": "<p>Your familiar's max HP increase by 2 per level.</p>"
 		},
 		"Tremorsense": {
-			"name": "Tremorsense",
+			"name": "Sentir vibraciones",
 			"description": "<p>Your familiar is keenly aware of any vibrations traveling through a surface. It gains imprecise tremorsense with a range of 30 feet.</p>"
 		},
 		"Valet": {
